@@ -1,2 +1,2 @@
 # RAIAESEncryptor
-Pengenkripsi plain text dengan AES dan JavaForm
+My first Java form program to encrypt plaintext using AES Algorithm.
